@@ -8,4 +8,4 @@ Files -
 2. nwParameter.json - // parameter file // This file contains parameters to be used by network.yml
 3. servers.yml - //template file for server infra // This file contains CloudFormation code to create and setup all required  servers/Lb's infra
 4. SrParameter.json - // parameter file // This file contains parameters to be used by servers.yml
-5. cloud_infra_diagram - // diagram depicting complete E2E architecture
+5. cloud_infra_diagram.jpeg - // diagram depicting complete E2E architecture
