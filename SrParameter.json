@@ -1,0 +1,11 @@
+[
+  {
+    "ParameterKey": "EnvironmentName",
+    "ParameterValue": "UdacityProject2"
+  },
+  {
+    "ParameterKey": "WebServerInstanceProfile",
+    "ParameterValue": "arn:aws:iam::368648265814:instance-profile/Admin_EC2"
+  }
+  
+]
